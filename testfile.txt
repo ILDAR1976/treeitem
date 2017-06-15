@@ -1,0 +1,21 @@
+<root>
+	<subroot>
+		Test working algorithm
+		<smile>
+			I am look
+		</smile>
+	</subroot>
+
+	<subroot2>
+		<fine>
+			<wfine>
+				<wmine>
+				</wmine>
+			</wfine>
+		</fine>
+	</subroot2>
+	<broot2>
+		<lego>
+		</lego>
+	</broot2>
+</root>
